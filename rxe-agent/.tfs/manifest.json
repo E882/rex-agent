@@ -1,0 +1,46 @@
+{
+	"signatures": null,
+	"signed": {
+		"files": {
+			"run.sh": {
+				"size": 439,
+				"hashes": {
+					"sha256": "fbdb7f7e9af1a93bf268fae470decb2e4a2d79d94794dc142c08aafc3ee3b971",
+					"sha512": "0a042379cfe839fc6c1298fdc679907d52ea19f8782ea9a18eac1699715204843a421977e7b9326988d1d1a1ab31f74e6261a663818d68c5e18e9d7aed91e193"
+				}
+			},
+			"rxe-agent/RPXEngine": {
+				"size": 10027008,
+				"hashes": {
+					"sha256": "0e95bfea5b7d2ed47e18a4f6553327380474f2cabc12bc093f5081ab51bec258",
+					"sha512": "23d66a0ab8c82d696f87a9034814b6bd2d33b75569eb3ed7f064ff3ff5c0c7993917a007e6a951c7519a58c6e30669e0f632d3927469a726bf054004a4d1e1c1"
+				}
+			},
+			"rxe-agent/RapixGo": {
+				"size": 20000768,
+				"hashes": {
+					"sha256": "5dc9ea0aadd92523de9239ebb24bcbc89bcdc9e3899725af453488fd2cae20de",
+					"sha512": "df559b69feefdafcb8ae0949d5ff9d9b31938816efb6f5c7102ccee31787bf38ccad1f883b11eb6d05e745f966155005ad3ac93ecbb8803c86eaccbd8f2f3f58"
+				}
+			},
+			"rxe-agent/ca_bundle.crt": {
+				"size": 13,
+				"hashes": {
+					"sha256": "d0a2ee281b61b09ac8e0db597048ee404c37ca0a6a10e187e912071f6ef898e2",
+					"sha512": "50421733f3026a006b698392966f1919e3e0c30aca68bef0eb6ae9d27fbb69fe3bb40dfb05be41be326109ed56bddb9041408a581b675054cb0b60688bbd0fa0"
+				}
+			},
+			"rxe-agent/rxe-server.pub": {
+				"size": 0,
+				"hashes": {}
+			}
+		},
+		"swpkg": {
+			"arch": "amd64",
+			"group": "RapixEngine Agent",
+			"name": "rxe-agent",
+			"os": "linux",
+			"version": "2.3.0"
+		}
+	}
+}
